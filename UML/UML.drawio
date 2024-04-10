@@ -1,0 +1,100 @@
+<mxfile host="Electron" modified="2024-04-10T17:23:05.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="jTH2cuBSTnR42TYaJGqB" version="23.1.5" type="device">
+  <diagram name="Page-1" id="Feaf893ghHaGpSit0nrv">
+    <mxGraphModel dx="1925" dy="1378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="720" width="190" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-53" value="Jeu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="720" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-55" value="nombreDeJeuxTermines (Int)&lt;div&gt;nom (String)&lt;/div&gt;&lt;div&gt;duree (Double)&lt;/div&gt;&lt;div&gt;succes (Int)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="290" y="760" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-57" value="Propriétés" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-58" value="&lt;br&gt;&lt;br&gt;void afficher()&lt;br&gt;double dureeTotale()&lt;br&gt;void setDuree()&lt;br&gt;void setSucces()&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="290" y="870" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-59" value="Méthodes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="870" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNKBMMk6cnAnsifUxQpB-60" target="CNKBMMk6cnAnsifUxQpB-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-60" value="rpg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1080" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-61" value="&lt;br&gt;&lt;font color=&quot;#bababa&quot;&gt;nombreDeJeuxTermines (Int)&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#bababa&quot;&gt;nom (String)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#bababa&quot;&gt;duree (Double)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#bababa&quot;&gt;succes (Int)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;rang (String)&lt;/div&gt;&lt;div&gt;guildName (String)&lt;/div&gt;&lt;div&gt;charNbr (Int)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1120" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-62" value="Propriétés" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-63" value="&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#bababa&quot;&gt;void afficher()&lt;br&gt;double dureeTotale()&lt;br&gt;void setDuree()&lt;br&gt;void setSucces()&lt;/font&gt;&lt;div&gt;void afficherRPG()&lt;/div&gt;&lt;div&gt;String payerAbonnement()&lt;/div&gt;&lt;div&gt;void setGuildName(String guildName)&lt;/div&gt;&lt;div&gt;void setCharNbr(int charNbr)&lt;/div&gt;&lt;div&gt;void setRang(String rang)&lt;/div&gt;&lt;div&gt;String getGuildName()&lt;/div&gt;&lt;div&gt;int getCharNbr()&lt;/div&gt;&lt;div&gt;String getRang()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1260" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-64" value="Méthodes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNKBMMk6cnAnsifUxQpB-65" target="CNKBMMk6cnAnsifUxQpB-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-65" value="indie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1080" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-66" value="&lt;font color=&quot;#bababa&quot;&gt;&lt;br&gt;nombreDeJeuxTermines (Int)&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#bababa&quot;&gt;nom (String)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#bababa&quot;&gt;duree (Double)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#bababa&quot;&gt;succes (Int)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;studio (String)&lt;/div&gt;&lt;div&gt;isVR (int)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1120" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-67" value="Propriétés" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-68" value="&lt;font color=&quot;#bababa&quot;&gt;&lt;br&gt;&lt;br&gt;void afficher()&lt;br&gt;double dureeTotale()&lt;br&gt;void setDuree()&lt;br&gt;void setSucces()&lt;/font&gt;&lt;br&gt;void afficherIndie()&lt;br&gt;String payerAbonnement()&lt;br&gt;String passerEnVR()&lt;br&gt;void setNom(String nom)&lt;br&gt;void setStudio(String studio)&lt;br&gt;String getNom()&lt;br&gt;String getStudio&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1240" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-69" value="Méthodes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CNKBMMk6cnAnsifUxQpB-70" target="CNKBMMk6cnAnsifUxQpB-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-70" value="Jeu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1080" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-71" value="&lt;br&gt;&lt;font color=&quot;#bababa&quot;&gt;nombreDeJeuxTermines (Int)&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#bababa&quot;&gt;nom (String)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#bababa&quot;&gt;duree (Double)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#bababa&quot;&gt;succes (Int)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;rang (String)&lt;/div&gt;&lt;div&gt;credits (Int)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1120" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-72" value="Propriétés" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-73" value="&lt;font color=&quot;#bababa&quot;&gt;&lt;br&gt;&lt;br&gt;void afficher()&lt;br&gt;double dureeTotale()&lt;br&gt;void setDuree()&lt;br&gt;void setSucces()&lt;/font&gt;&lt;div&gt;void afficherBR()&lt;/div&gt;&lt;div&gt;void setNom(String nom)&lt;/div&gt;&lt;div&gt;void setRang(String rang)&lt;/div&gt;&lt;div&gt;void setCredits(int credits)&lt;/div&gt;&lt;div&gt;String getNom()&lt;/div&gt;&lt;div&gt;String getRang()&lt;/div&gt;&lt;div&gt;int getCredits()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1240" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-74" value="Méthodes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNKBMMk6cnAnsifUxQpB-75" target="CNKBMMk6cnAnsifUxQpB-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-75" value="fpssolo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1080" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-76" value="&lt;font color=&quot;#bababa&quot;&gt;&lt;br&gt;&lt;br&gt;nombreDeJeuxTermines (Int)&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#bababa&quot;&gt;nom (String)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#bababa&quot;&gt;duree (Double)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#bababa&quot;&gt;succes (Int)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;rang (String)&lt;/div&gt;&lt;div&gt;isVR (Int)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1120" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-77" value="Propriétés" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-78" value="&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#bababa&quot;&gt;void afficher()&lt;br&gt;double dureeTotale()&lt;br&gt;void setDuree()&lt;br&gt;void setSucces()&lt;/font&gt;&lt;br&gt;void AfficherFPS()&lt;br&gt;String passerEnVR()&lt;br&gt;void setRang(String rang)&lt;br&gt;String getRang()&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1250" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CNKBMMk6cnAnsifUxQpB-79" value="Méthodes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="1250" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
